@@ -165,7 +165,7 @@ h6 {
 h1,.h1{
     font-size:40px;
     color:inherit;
-    font-family:PP Eiko,serif;
+    font-family:$font-family-sans,serif;
     font-weight:500;
     line-height:1
 }
@@ -182,7 +182,7 @@ h1,.h1{
 h2,.h2{
     font-size:21px;
     color:inherit;
-    font-family:PP Eiko,serif;
+    font-family:$font-family-sans,serif;
     font-weight:400;
     line-height:.9
 }
@@ -216,7 +216,7 @@ h3,.h3{
 h4,.h4{
     font-size:15px;
     color:inherit;
-    font-family:PP Eiko,serif;
+    font-family:$font-family-sans,serif;
     font-weight:500;
     line-height:1
 }
@@ -233,7 +233,7 @@ h4,.h4{
 h5,.h5{
     font-size:15px;
     color:inherit;
-    font-family:PP Eiko,serif;
+    font-family:$font-family-sans,serif;
     font-weight:500;
     line-height:1
 }
