@@ -5,10 +5,11 @@ id: home
 permalink: /
 ---
 
-# Welcome, Fellow Digital traveller!
+# Welcome, Fellow Digital traveller
 
 You've wondered into Discipleship City, a digital town founded in 2022 by Digital Pilgrim Jonathan, as a way to organize digital information. Feeling a little lost? Here's a map to help you navigate these digital streets:
 
+Ⓣ Map
 
 <div style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   <h3>① Study Hall</h3>
