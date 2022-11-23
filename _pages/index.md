@@ -11,8 +11,13 @@ You've wondered into Discipleship City, a digital town founded in 2022 by Digita
 
 
 <div style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  <h3>Study Hall</h3>
-  <p>Pull up a chair at the <span style="font-weight: bold">[[Study Hall]]</span> to get started on your exploration.</p>
+  <h3>① Study Hall</h3>
+  <p>Pull up a chair at the <span style="font-weight: bold">[Study Hall]</span> to get started on your exploration.</p>
+</div>
+---
+<div style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+  <h3>① The Prayer Closet</h3>
+  <p>Pull up a chair at the <span style="font-weight: bold">[Study Hall]</span> to get started on your exploration.</p>
 </div>
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
