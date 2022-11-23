@@ -7,10 +7,12 @@ permalink: /
 
 # Welcome, Fellow Digital traveller!
 
-You've wondered into Discipleship City, a digital town founded in 2022 by Digital Pilgrim "St. John." The city is a digital experiment. 
+You've wondered into Discipleship City, a digital town founded in 2022 by Digital Pilgrim Jonathan, as a way to organize digital information. Feeling a little lost? Here's a map to help you navigate these digital streets:
+
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  <h3>Study Hall<h3>
+  Pull up a chair at the <span style="font-weight: bold">[[Study Hall]]</span> to get started on your exploration.
 </p>
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
