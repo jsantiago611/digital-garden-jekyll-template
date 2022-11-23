@@ -40,15 +40,56 @@
    font-display: swap;
 }
 
+
+@font-face {
+   font-family: 'Eiko';
+   src: url('../assets/PPEiko-Regular.woff2') format('woff2');
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Eiko';
+   src: url('../assets/PPEiko-Medium.woff2') format('woff2');
+   font-weight: 500;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Mori';
+   src: url('../assets/PPMori-Book.woff2') format('woff2');
+   font-weight: 300;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Mori';
+   src: url('../assets/PPMori-Regular.woff2') format('woff2');
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Mori';
+   src: url('../assets/PPMori-Bold.woff2') format('woff2');
+   font-weight: 700;
+   font-style: normal;
+   font-display: swap;
+}
+
 $color-primary: hsl(0, 0%, 10%);
 $color-text: #000;
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
 $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
-$font-family-sans: 'SOEHNE', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+$font-family-sans: 'Eiko', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
-$font-family-serif: 'SIGNIFIER', Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+$font-family-serif: 'Mori', Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
 
 
 body {
