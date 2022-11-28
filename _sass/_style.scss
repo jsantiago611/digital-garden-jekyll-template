@@ -134,7 +134,7 @@ $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
 $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
-$font-family-sans: 'NYC', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+$font-family-sans: 'Soehne', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 $font-family-serif: 'Pitch', Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
 
@@ -211,9 +211,10 @@ h6 {
   line-height: 1.3;
   margin-bottom: 0;
   padding-bottom: 0;
-  font-family: 'NYC';
-	font-weight: 300;
+  font-family: 'Soehne';
+	font-weight: 600 !important;
 	letter-spacing: calc(-0.04em + 1px);
+	    font-feature-settings: 'ss01';
 }
 
 h1,.h1{
