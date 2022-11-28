@@ -15,7 +15,7 @@ You've wondered into Discipleship City, a digital town founded in 2022 by Digita
   <h3 style="border-top: 2px solid; padding-top: 1em;">→ Study Hall</h3>
   <h4>Bible Studies</h4>
   <h3 style="border-top: 2px solid; padding-top: 1em;">↘ Prayer Closet</h3>
-  <h4>Pull up a chair at the <span style="font-weight: bold">[Study Hall]</span> to get started on your exploration.</p>
+  <h4>Pull up a chair at the <span style="font-weight: bold">[Study Hall]</span> to get started on your exploration.</h4>
 </div>
 ---
 
