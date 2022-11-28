@@ -10,8 +10,8 @@ permalink: /
 You've wondered into Discipleship City, a digital town founded in 2022 by Digital Pilgrim Jonathan, as a way to organize digital information. Feeling a little lost? Here's a map to help you navigate these digital streets:
 
 ---
+<h2>Map</h2>
 <div style="padding: 3em 1em; margin-top: 1rem; background: #000; color: #fff; border-radius: 4px;">
-  <h2>Map</h2>
   <h3>→ Study Hall</h3>
   <p>Pull up a chair at the <span style="font-weight: bold">[Study Hall]</span> to get started on your exploration.</p>
   <h3>↘ The Prayer Closet</h3>
