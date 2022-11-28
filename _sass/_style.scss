@@ -98,6 +98,30 @@
 }
 
 @font-face {
+   font-family: 'PitchSans';
+   src: url('../assets/PitchSansWeb-Medium.woff2') format('woff2');
+   font-weight: 500;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'PitchSans';
+   src: url('../assets/PitchSansWeb-MediumItalic.woff2') format('woff2');
+   font-weight: 500;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'PitchSans';
+   src: url('../assets/PitchSans-Semibold.woff2') format('woff2');
+   font-weight: 600;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
    font-family: 'NYC';
    src: url('../assets/NYCTAStandard-Medium.woff2') format('woff2');
    font-style: normal;
