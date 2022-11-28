@@ -1,4 +1,12 @@
 @font-face {
+   font-family: 'SOEHNEICONS';
+   src: url('../assets/soehne-ikon-web-buch.woff2') format('woff2');
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
    font-family: 'SOEHNE';
    src: url('../assets/soehne-web-buch.woff2') format('woff2');
    font-weight: 400;
@@ -330,6 +338,7 @@ a {
     font-size: 0.7em;
     content: "↗";
     color: #aaaaaa;
+	  font-family: "SOEHNEICONS";
   }
   &.internal-link:after,
   &.footnote:after,
