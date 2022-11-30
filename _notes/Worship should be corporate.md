@@ -1,5 +1,4 @@
 ---
-Title: Worship should be corporate
 ---
 
 These are some passing notes taken while listening to Tim Keller's Sermon, "Worship", based on Psalm 95.
