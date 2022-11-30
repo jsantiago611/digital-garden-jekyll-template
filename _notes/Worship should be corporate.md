@@ -2,7 +2,7 @@
 ---
 
 These are some passing notes taken while listening to Tim Keller's Sermon, "Worship", based on Psalm 95.
----
+
 Worship should be a corporate event. Psalm 95 is written in the plural form: "Let us sing...let us make a joyful noise....let us come....let us worship....let us kneel...do not harden your hearts." 
 
 But why can't I worship in private? The internet makes this convinent and very doeable. What if I just don't like people? is this necessary? 
