@@ -12,8 +12,8 @@ You've wondered into Discipleship City, a digital town founded in 2022 by Digita
 ---
 <h1>City Map</h1>
 <div style="padding: 0em 1em 3em 1em; margin-top: 1rem; background: #000; color: #fff;">
-  <h2 style="padding-top: 1em;">→   Study Hall</h2>
-  <h2 style="border-top: 2px solid; padding-top: 1em;">↑   Prayer Closet</h2>
+  <h3 style="padding-top: 1em;">→   Study Hall</h3>
+  <h3 style="border-top: 2px solid; padding-top: 1em;">↑   Prayer Closet</h3>
 </div>
 ---
 
