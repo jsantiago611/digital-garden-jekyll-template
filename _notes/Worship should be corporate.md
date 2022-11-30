@@ -13,3 +13,5 @@ C.S. Lewis gives us good reasons:
 You can only know a full person in a fellowship, bc/ you only see the part of that person that you bring out. The more you share a friend with friends, the more of that person you have. 
 
 If a finite human being needs to be known corporately, how much more God? 
+
+And so, arguing from lesser to greater, using C.S. Lewis's insight, we find that worshipping with the other people is our people is our best shot at having the most complete picture of God. And that is the aim of all Christians, isn't it?
