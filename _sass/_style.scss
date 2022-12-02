@@ -200,6 +200,14 @@
    font-display: swap;
 }
 
+@font-face {
+   font-family: 'Roobert';
+   src: url('../assets/Reckless-Regular.woff2') format('woff2');
+   font-weight: 600;
+   font-style: italic;
+   font-display: swap;
+}
+
 $color-primary: hsl(0, 0%, 10%);
 $color-text: #000;
 $color-subtext: hsl(0, 0%, 30%);
