@@ -13,7 +13,9 @@ I'm Jonathan, and you've discovered my Second Bible. I used to record Bible note
 <div style="padding: .5em 1em 3em 1em; margin-top: 1rem; background: #ffc864; color: #000; border-radius: 2.5rem;">
   <h2>Table of Contents</h2>
   <div style="padding: 0em 1em 3em 1em; margin-top: 1rem; background: #000; color: #fff; border-radius: 2.5rem;">
-    <h3 style="padding-top: 1em;">Genesis</h3>
+    <div class="toc-container">
+      <h3 style="padding-top: 1em;">Genesis</h3>
+    </div>
     <h3 style="border-top: 2px solid; padding-top: 1em;">Exodus</h3>
   </div>
 </div>
