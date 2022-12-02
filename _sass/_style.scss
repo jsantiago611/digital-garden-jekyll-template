@@ -482,3 +482,13 @@ code {
 text-transform: uppercase;
     letter-spacing: 0.07em;
 }
+
+.toc-container {
+    border-radius: 100px;
+    border: 1px solid rgba(16,16,24,.12);
+    padding: 30px 30px 30px 40px;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    align-items: center;
+}
