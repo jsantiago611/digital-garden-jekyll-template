@@ -5,15 +5,15 @@ id: home
 permalink: /
 ---
 
-### Welcome, Fellow Digital traveller
+### Welcome, Fellow _Digital traveller_
 
-You've wondered into Discipleship City, a digital town founded in 2022 by Digital Pilgrim Jonathan, as a way to organize digital information. Feeling a little lost? Here's a map to help you navigate these digital streets:
+I'm Jonathan, and you've discovered my Second Bible. I used to record Bible notes in a journaling bible, but after time, I usually ran out of space, didnt' like my everchanging handwriting, lost valuable notes, and couldn't see how all my notes connected. SO. Taking a hint from Tiago Forte, I'm Building a Second Bible, which will house not just the biblical text, but also my notes embedded within them. Explore the table of contents below:
 
 ---
-<h1>City Map</h1>
+<h1>table of Contents</h1>
 <div style="padding: 0em 1em 3em 1em; margin-top: 1rem; background: #000; color: #fff;">
-  <h3 style="padding-top: 1em;">→   Study Hall</h3>
-  <h3 style="border-top: 2px solid; padding-top: 1em;">↑   Prayer Closet</h3>
+  <h3 style="padding-top: 1em;">Genesis</h3>
+  <h3 style="border-top: 2px solid; padding-top: 1em;">Exodus</h3>
 </div>
 ---
 
