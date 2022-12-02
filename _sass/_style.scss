@@ -208,7 +208,7 @@ $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
 $font-family-sans: 'Soehne', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
-$font-family-serif: 'Reckless', Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+$font-family-serif: 'Roobert', Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
 
 
 body {
@@ -284,7 +284,7 @@ h6 {
   margin-bottom: 0;
   padding-bottom: 0;
   font-family: 'Roobert';
-	/*font-weight: 600 !important;*/
+	font-weight: 600 !important;
 	letter-spacing: calc(-0.05em + 1px);
 }
 
