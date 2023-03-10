@@ -5,13 +5,16 @@ id: home
 permalink: /
 ---
 
-# Welcome, Fellow _Digital traveller_
+## Discipleship City
+## 2 miles ahead
 
-I'm Jonathan, and you've discovered my digital city. 
+Welcome, _fellow digital traveller_. 
+I'm Jonathan, and you've stumbled upon digital city. 
 
+If you want to get off the info superhighway, stop here for a while. 
 It's all under construction and pretty messy, but here's a [[map]] so you don't get lost. 
 
-Make yourself at home!
+Make yourself at home and *welcome*!
 
 
 <style>
