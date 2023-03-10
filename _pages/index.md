@@ -5,8 +5,8 @@ id: home
 permalink: /
 ---
 
-## Discipleship City
-## 2 miles ahead
+# Discipleship City
+## (2 miles ahead)
 
 Welcome, _fellow digital traveller_. 
 I'm Jonathan, and you've stumbled upon digital city. 

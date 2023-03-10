@@ -1,5 +1,5 @@
 ---
-title: The Betrayers
+title: the betrayers
 ---
 
 In Mark 14, Jesus predicts his betrayal by one disciple, and he predicts the defection and the failure of all the disciples. So what are we supposed to learn from this?
