@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+Hey, I'm Jonathan!
 
-Feel free to tell the world about what you love! 😍
+This is an exploratory space where I share discoveries and link ideas. I use the physical city as metaphor for organizing and sharing my ideas. 
+
+Make yourself at home.
